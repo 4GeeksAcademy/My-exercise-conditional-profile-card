@@ -62,6 +62,7 @@
   margin: 60px 0 20px;
   font-size: 26px;
   color: #000;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .widget h3 {
   font-size: 12px;
